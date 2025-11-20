@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - luigibonati
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - luigibonati/mlcolvar
+  - luigibonati/DEAL
+  - CSML-IIT-UCL/franken
