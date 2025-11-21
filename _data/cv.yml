@@ -50,91 +50,91 @@
       items:
         - ETH Silver Medal for outstanding doctoral thesis, ETH Zurich, Zurich, CH.
 
-- title: Invited talks
-  type: time_table
-  contents:
-    - title: Molecular Simulation and Engineering workshop
-      institution: Polytechnic of Milan
-      year: 2025
-      description:
-        - Invited talk, 17 Oct. 2025, Milan, IT.
-    - title: Conference on Molecular Modeling for Energy and the Environment
-      institution: SUPSI
-      year: 2025
-      description:
-        - Invited talk, 8–9 Oct. 2025, Lugano, CH.
-    - title: Conference on Frontiers in Atomistic Simulations: from Physics to Chemistry and Biology
-      institution: ICTP
-      year: 2025
-      description:
-        - Invited talk, 8–12 September 2025, Trieste, IT.
-    - title: Inferring Kinetics, Thermodynamics, and Mechanisms from Enhanced Sampling Simulations
-      institution: ACS Spring Meeting symposium
-      year: 2025
-      description:
-        - Invited talk, 22–27 March 2025, San Diego, USA.
-    - title: Combining AI and physical modeling for contemporary simulations
-      institution: CECAM Flagship Workshop, EPFL Lausanne
-      year: 2024
-      description:
-        - Invited talk, 11–12 December 2024, Lausanne, CH.
-    - title: Seminar @ Institute of Mineralogy, Materials Physics and Cosmochemistry (IMPMC)
-      institution: Sorbonne University
-      year: 2024
-      description:
-        - Seminar, 14 Nov. 2024, Paris, FR.
-    - title: Atomistic Simulations Seminar Series
-      institution: ICTP Trieste
-      year: 2024
-      description:
-        - Seminar, 3 July 2024, Trieste, IT.
-    - title: 1st Virapid (Vienna Research Platform on Accelerating Photoreaction Discovery) workshop
-      institution: University of Vienna
-      year: 2024
-      description:
-        - Invited talk, 26–29 Feb. 2024, Vienna, AT.
-    - title: Initiative for Computational Catalysis Inaugural Workshop
-      institution: Flatiron Institute
-      year: 2024
-      description:
-        - Invited talk, 19–21 Feb. 2024, New York, USA.
-    - title: Quantum² on machine learning enhanced sampling
-      institution: CECAM Workshop, EPFL Lausanne
-      year: 2023
-      description:
-        - Invited talk, 29 Nov. – 2 Dec. 2023, Lausanne, CH.
-    - title: Enhanced sampling methods with PLUMED
-      institution: CECAM Flagship School, EPFL Lausanne
-      year: 2023
-      description:
-        - Lectures, 5–6 July 2023, Lausanne, CH.
-    - title: Seminar @ Biomolecular & Pharmaceutical Modelling Group
-      institution: University of Geneva
-      year: 2023
-      description:
-        - Seminar, 30 June 2023, Geneva, CH.
-    - title: Machine Learning and Chemistry: Are We There Yet?
-      institution: MolSSI workshop, University of Maryland
-      year: 2023
-      description:
-        - Invited talk, 31 May – 2 June 2023, College Park, USA.
-    - title: Machine Learning for Materials Hard and Soft – ESI-DCAFM-TACO-VDSP Summer School 2022
-      institution: University of Vienna
-      year: 2022
-      description:
-        - Lectures on free energies and enhanced sampling, Doctoral school, 11–22 July 2022, Vienna, AT.
-    - title: Chasing CVs using Machine Learning: from methods development to biophysical applications
-      institution: CECAM Workshop, INRIA Paris
-      year: 2022
-      description:
-        - Invited talk, 28–30 June 2022, Paris, FR.
-    - title: Machine Learning Augmented Sampling for the Molecular Sciences
-      institution: CECAM Workshop, EPFL Lausanne
-      year: 2022
-      description:
-        - Invited talk, 11–13 May 2022, Lausanne, CH.
-    - title: PLUMED Masterclass: Machine learning collective variables with PyTorch
-      institution: Online
-      year: 2022
-      description:
-        - Online lectures and hands-on, 28 Mar & 4 Apr 2022.
+# - title: Invited talks
+#   type: time_table
+#   contents:
+#     - title: Molecular Simulation and Engineering workshop
+#       institution: Polytechnic of Milan
+#       year: 2025
+#       description:
+#         - Invited talk, 17 Oct. 2025, Milan, IT.
+#     - title: Conference on Molecular Modeling for Energy and the Environment
+#       institution: SUPSI
+#       year: 2025
+#       description:
+#         - Invited talk, 8–9 Oct. 2025, Lugano, CH.
+#     - title: Conference on Frontiers in Atomistic Simulations: from Physics to Chemistry and Biology
+#       institution: ICTP
+#       year: 2025
+#       description:
+#         - Invited talk, 8–12 September 2025, Trieste, IT.
+#     - title: Inferring Kinetics, Thermodynamics, and Mechanisms from Enhanced Sampling Simulations
+#       institution: ACS Spring Meeting symposium
+#       year: 2025
+#       description:
+#         - Invited talk, 22–27 March 2025, San Diego, USA.
+#     - title: Combining AI and physical modeling for contemporary simulations
+#       institution: CECAM Flagship Workshop, EPFL Lausanne
+#       year: 2024
+#       description:
+#         - Invited talk, 11–12 December 2024, Lausanne, CH.
+#     - title: Seminar @ Institute of Mineralogy, Materials Physics and Cosmochemistry (IMPMC)
+#       institution: Sorbonne University
+#       year: 2024
+#       description:
+#         - Seminar, 14 Nov. 2024, Paris, FR.
+#     - title: Atomistic Simulations Seminar Series
+#       institution: ICTP Trieste
+#       year: 2024
+#       description:
+#         - Seminar, 3 July 2024, Trieste, IT.
+#     - title: 1st Virapid (Vienna Research Platform on Accelerating Photoreaction Discovery) workshop
+#       institution: University of Vienna
+#       year: 2024
+#       description:
+#         - Invited talk, 26–29 Feb. 2024, Vienna, AT.
+#     - title: Initiative for Computational Catalysis Inaugural Workshop
+#       institution: Flatiron Institute
+#       year: 2024
+#       description:
+#         - Invited talk, 19–21 Feb. 2024, New York, USA.
+#     - title: Quantum² on machine learning enhanced sampling
+#       institution: CECAM Workshop, EPFL Lausanne
+#       year: 2023
+#       description:
+#         - Invited talk, 29 Nov. – 2 Dec. 2023, Lausanne, CH.
+#     - title: Enhanced sampling methods with PLUMED
+#       institution: CECAM Flagship School, EPFL Lausanne
+#       year: 2023
+#       description:
+#         - Lectures, 5–6 July 2023, Lausanne, CH.
+#     - title: Seminar @ Biomolecular & Pharmaceutical Modelling Group
+#       institution: University of Geneva
+#       year: 2023
+#       description:
+#         - Seminar, 30 June 2023, Geneva, CH.
+#     - title: Machine Learning and Chemistry: Are We There Yet?
+#       institution: MolSSI workshop, University of Maryland
+#       year: 2023
+#       description:
+#         - Invited talk, 31 May – 2 June 2023, College Park, USA.
+#     - title: Machine Learning for Materials Hard and Soft – ESI-DCAFM-TACO-VDSP Summer School 2022
+#       institution: University of Vienna
+#       year: 2022
+#       description:
+#         - Lectures on free energies and enhanced sampling, Doctoral school, 11–22 July 2022, Vienna, AT.
+#     - title: Chasing CVs using Machine Learning: from methods development to biophysical applications
+#       institution: CECAM Workshop, INRIA Paris
+#       year: 2022
+#       description:
+#         - Invited talk, 28–30 June 2022, Paris, FR.
+#     - title: Machine Learning Augmented Sampling for the Molecular Sciences
+#       institution: CECAM Workshop, EPFL Lausanne
+#       year: 2022
+#       description:
+#         - Invited talk, 11–13 May 2022, Lausanne, CH.
+#     - title: PLUMED Masterclass: Machine learning collective variables with PyTorch
+#       institution: Online
+#       year: 2022
+#       description:
+#         - Online lectures and hands-on, 28 Mar & 4 Apr 2022.
