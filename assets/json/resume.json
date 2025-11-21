@@ -3,13 +3,13 @@
     "name": "Luigi Bonati",
     "label": "Researcher in Atomistic Simulations",
     "image": "",
-    "email": "",
+    "email": "luigi.bonati@iit.it",
     "phone": "",
-    "url": "",
-    "summary": "",
+    "url": "luigibonati.github.com/",
+    "summary": "Using computers to understand the world, one atom at a time.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "Via Melen 83",
+      "postalCode": "16152",
       "city": "Genova",
       "countryCode": "IT",
       "region": "Liguria"
@@ -24,28 +24,18 @@
       "location": "Genova, Italy",
       "url": "",
       "startDate": "2024-10-01",
-      "summary": "",
-      "highlights": []
+      "summary": "AI4Science, developing and applying machine learning techniques to atomistic simulations.",
+      "highlights": ["Contributed to the Future of Artificial Intelligence Research (FAIR) foundation, funded by the EU and the Italian MIUR.", "Visiting collaborator at the Initiative for Computational Catalysis of the Flatiron Insitute (New York City, USA)."]
     },
     {
-      "name": "AmmoRef research network (TransHyDE project)",
-      "position": "Postdoc",
-      "location": "",
-      "url": "",
-      "startDate": "2022-07-01",
-      "endDate": "2024-09-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Atomistic Simulations line, Italian Institute of Technology",
-      "position": "Research Fellow",
+      "name": "IIT & AmmoRef research network (TransHyDE project)",
+      "position": "Fellow/Postdoc",
       "location": "",
       "url": "",
       "startDate": "2021-01-01",
-      "endDate": "2022-06-01",
-      "summary": "",
-      "highlights": []
+      "endDate": "2024-09-01",
+      "summary": "Research assistant in the Atomistic Simulations line.",
+      "highlights": ["Applied catalytic process" ,"AmmoRef research network ('Ammonia reforming: catalyst synthesis / characterization / mechanisms')  within the TransHyDE project, funded by the German Federal Ministry of Education and Research."]
     }
   ],
 
@@ -54,7 +44,7 @@
   "education": [
     {
       "institution": "ETH Zurich",
-      "location": "Zurich/Lugano, Switzerland",
+      "location": "Zurich, Switzerland",
       "url": "",
       "area": "Physics",
       "studyType": "Doctoral degree",
@@ -62,7 +52,8 @@
       "endDate": "2021-09-01",
       "score": "",
       "courses": [
-        "Thesis: Machine learning and enhanced sampling simulations."
+        "Thesis: Machine learning and enhanced sampling simulations.",
+        "ETH Silver Medal for outstanding doctoral thesis."
       ]
     },
     {
@@ -92,28 +83,28 @@
   "awards": [
     {
       "title": "Young Talent Label of Excellence",
-      "date": "2024-01-01",
+      "date": "2024",
       "awarder": "International Congress of Catalysis",
       "url": "",
       "summary": "Awarded at the International Congress of Catalysis, Lyon, France."
     },
     {
-      "title": "IACS Young Travel Award @ ICC2024",
-      "date": "2024-01-01",
+      "title": "IACS Young Scientists Award",
+      "date": "2024",
       "awarder": "The International Association of Catalysis Societies",
       "url": "",
       "summary": "Travel award for ICC2024, Lyon, France."
     },
     {
       "title": "Italian Innovation in Switzerland Award",
-      "date": "2023-01-01",
+      "date": "2023",
       "awarder": "Comites Zurich",
       "url": "",
       "summary": "Awarded in Zurich, Switzerland."
     },
     {
       "title": "ETH Silver Medal for outstanding doctoral thesis",
-      "date": "2022-01-01",
+      "date": "2022",
       "awarder": "ETH Zurich",
       "url": "",
       "summary": "Silver Medal for outstanding doctoral thesis, ETH Zurich, Switzerland."
