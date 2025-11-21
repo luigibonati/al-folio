@@ -104,7 +104,7 @@
       "name": "Advisory Board Member",
       "icon": "fa-solid fa-book",
       "keywords": [
-        "Materials Today Catalysis, edited by Elsevier."
+        "<a href='https://www.sciencedirect.com/journal/materials-today-catalysis'>Materials Today Catalysis</a>, edited by Elsevier."
       ]
     },
     {
@@ -118,7 +118,7 @@
       "name": "Conferences organization.",
       "icon": "fa-solid fa-person-chalkboard",
       "keywords": [
-        "CECAM Flagship Workshop: 'Advances in catalytic reactivity simulations under operando conditions', Varigotti, Italy, October 2024, 7-9."
+        "CECAM Flagship Workshop: 'Advances in catalytic reactivity simulations under operando conditions', Varigotti, Italy, October 2024, 7-9 (<a href='https://www.cecam.org/workshop-details/advances-in-catalytic-reactivity-simulations-under-operando-conditions-1332'>websiteT</a>)."
       ]
     }
   ],
