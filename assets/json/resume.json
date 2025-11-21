@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Luigi Bonati",
-    "label": "Researcher in Atomistic Simulations",
+    "label": "Researcher in Atomistic Simulations and Machine Learning",
     "image": "",
-    "email": "luigi.bonati@iit.it",
+    "email": "",
     "phone": "",
     "url": "luigibonati.github.com/",
     "summary": "Using computers to understand the world, one atom at a time.",
@@ -28,14 +28,14 @@
       "highlights": ["Contributed to the Future of Artificial Intelligence Research (FAIR) foundation, funded by the EU and the Italian MIUR.", "Visiting collaborator at the Initiative for Computational Catalysis of the Flatiron Insitute (New York City, USA)."]
     },
     {
-      "name": "IIT & AmmoRef research network (TransHyDE project)",
+      "name": "Italian Institute of Technology (IIT) & AmmoRef research network (TransHyDE project)",
       "position": "Fellow/Postdoc",
       "location": "",
       "url": "",
       "startDate": "2021-01-01",
       "endDate": "2024-09-01",
-      "summary": "Research assistant in the Atomistic Simulations line.",
-      "highlights": ["Applied catalytic process" ,"AmmoRef research network ('Ammonia reforming: catalyst synthesis / characterization / mechanisms')  within the TransHyDE project, funded by the German Federal Ministry of Education and Research."]
+      "summary": "Atomistic Simulations research line, modeling catalytic processes via dynamical simulations.",
+      "highlights": ["AmmoRef research network ('Ammonia reforming: catalyst synthesis / characterization / mechanisms')  within the TransHyDE project, funded by the German Federal Ministry of Education and Research.", "Academic-corporate collaborations with chemical industries."]
     }
   ],
 
@@ -51,9 +51,10 @@
       "startDate": "2018-01-01",
       "endDate": "2021-09-01",
       "score": "",
+      "summary": "Integration of machine learning and enhanced sampling techniques to study rare events in physics, chemistry and biology.",
       "courses": [
         "Thesis: Machine learning and enhanced sampling simulations.",
-        "ETH Silver Medal for outstanding doctoral thesis."
+        "Award: ETH Silver Medal for outstanding doctoral thesis."
       ]
     },
     {
@@ -65,7 +66,7 @@
       "startDate": "2015-10-01",
       "endDate": "2017-11-01",
       "score": "110/110 cum laude",
-      "courses": []
+      "courses": ["Score: 110/110 cum laude"]
     },
     {
       "institution": "University of Milan",
@@ -76,7 +77,7 @@
       "startDate": "2011-10-01",
       "endDate": "2015-02-01",
       "score": "110/110 cum laude",
-      "courses": []
+      "courses": ["Score: 110/110 cum laude"]
     }
   ],
 
@@ -100,7 +101,7 @@
       "date": "2023",
       "awarder": "Comites Zurich",
       "url": "",
-      "summary": "Awarded in Zurich, Switzerland."
+      "summary": "Doctoral thesis award."
     },
     {
       "title": "ETH Silver Medal for outstanding doctoral thesis",
