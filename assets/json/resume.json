@@ -21,7 +21,7 @@
     {
       "name": "Italian Institute of Technology",
       "position": "Researcher",
-      "location": "Genova, Italy",
+      "location": "Genova, IT",
       "url": "",
       "startDate": "2024-10-01",
       "summary": "AI4Science, developing and applying machine learning techniques to atomistic simulations.",
@@ -30,7 +30,7 @@
     {
       "name": "Italian Institute of Technology (IIT) & AmmoRef research network (TransHyDE project)",
       "position": "Fellow/Postdoc",
-      "location": "",
+      "location": "Genova, IT",
       "url": "",
       "startDate": "2021-01-01",
       "endDate": "2024-09-01",
@@ -44,7 +44,7 @@
   "education": [
     {
       "institution": "ETH Zurich",
-      "location": "Zurich, Switzerland",
+      "location": "Zurich, CH",
       "url": "",
       "area": "Physics",
       "studyType": "Doctoral degree",
@@ -59,7 +59,7 @@
     },
     {
       "institution": "University of Milan",
-      "location": "Milan, Italy",
+      "location": "Milan, IT",
       "url": "",
       "area": "Physics",
       "studyType": "M.Sc.",
@@ -70,7 +70,7 @@
     },
     {
       "institution": "University of Milan",
-      "location": "Milan, Italy",
+      "location": "Milan, IT",
       "url": "",
       "area": "Physics",
       "studyType": "B.Sc.",
@@ -117,6 +117,29 @@
   "skills": [],
   "languages": [],
   "interests": [],
+  "service": [
+    {
+      "name": "Advisory Board Member",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "Materials Today Catalysis"
+      ]
+    },
+    {
+      "name": "Management Committee",
+      "icon": "fa-solid fa-people-group",
+      "keywords": [
+        "COST action CA24103 - EUropean COllaborative Network on electroCatalysis for Efficient Renewable Technologies (EU-CONCERT)"
+      ]
+    },
+    {
+      "name": "Conferences/workshop organization.",
+      "icon": "fa-solid fa-person-chalkboard",
+      "keywords": [
+        "CECAM Flagship Workshop: 'Advances in catalytic reactivity simulations under operando conditions', Varigotti, Italy, October 2024, 7-9.}"
+      ]
+    }
+  ],
   "references": [],
   "projects": []
 }
